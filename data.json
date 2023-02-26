@@ -1,14 +1,15 @@
 {
-    "1stArray": [
+    "student": [
+      "1stArray": [
         {
             "name": "Anthony Clark B. Caniamo",
             "age": 24,
-            "favoriteQoutes": "NEVER GIVE UP"
-        },
-         {
+            "favoriteQoutes": "NEVER GIVE UP",
             "classSection": "BSIT 3B",
             "classCode": "T230",
             "buksEmail": "1901102243@student.buksu.edu.ph"
-         }
+        }
+        
+      
      ]
 }
